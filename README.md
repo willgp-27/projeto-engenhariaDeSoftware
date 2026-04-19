@@ -40,18 +40,38 @@ PULL REQUEST: SALVAR O MUNDO
 
 ### 🟦 Introdução
 
-A história começa quando a lógica da cidade entra em colapso: semáforos param de obedecer às leis de trânsito e eletrodomésticos inteligentes começam a agir por conta própria. Por trás desse caos está o Bugão, uma entidade feita de código corrompido que se alimenta da desordem sistêmica.
-Para salvar o mundo, entra em cena uma equipe de especialistas (e amigos) com métodos bem distintos:
-•	Rafa: O líder que tenta manter a ordem através de metodologias ágeis (Scrum), mesmo quando o mundo está acabando.
-•	Léo: O programador otimista que acredita que "na máquina dele funciona", mesmo que o resto do planeta discorde.
-•	Bia: A revisora rigorosa que não deixa passar um código mal escrito, nem mesmo no meio de uma batalha.
-•	NINA: Uma IA assistente com soluções... digamos, drásticas demais.
-O Conflito Central
-A narrativa foca na tentativa da equipe de organizar o caos usando um quadro Kanban e abrindo o "Pull Request" definitivo para salvar a humanidade. Entre sugestões absurdas da IA (como reiniciar o planeta) e discussões sobre a estética do código, eles conseguem aplicar o Merge Final, restaurando a paz.
-O Tom da História
-É uma sátira inteligente sobre a cultura de desenvolvimento de software. O final reforça a maior verdade da tecnologia: um bug nunca vem sozinho. No momento em que celebram a vitória, um novo erro aparece, garantindo que o trabalho dos Debugadores nunca termina.
-________________________________________
-Uma jornada épica onde o maior vilão não é um monstro, mas um erro de sintaxe que pode apagar a existência!
+PULL REQUEST: SALVAR O MUNDO
+
+📖 Sinopse
+A história começa quando a lógica da cidade entra em colapso: semáforos ignoram as leis de trânsito e eletrodomésticos inteligentes começam a agir por conta própria. Por trás desse caos está o Bugão, uma entidade feita de código corrompido que se alimenta da desordem sistêmica.
+
+Para salvar o mundo, uma equipe de especialistas (e amigos) entra em cena para aplicar o "Pull Request" definitivo e restaurar a paz através do Merge Final.
+
+🎭 Informações Gerais
+Gênero: Sátira / Ficção Científica Tecnológica
+
+Tom: Humor inteligente sobre a cultura de desenvolvimento de software e metodologias ágeis.
+
+👥 Personagens
+Rafa (O Líder): Tenta manter a ordem através de metodologias ágeis (Scrum), mesmo quando o mundo está acabando.
+
+Léo (O Programador): O eterno otimista que jura que "na máquina dele funciona", independentemente do colapso global.
+
+Bia (A Revisora): Rigorosa e implacável, não deixa passar um código mal escrito, nem mesmo no calor da batalha.
+
+NINA (A IA): Uma assistente com soluções... digamos, drásticas demais (como sugerir o reboot do planeta).
+
+🛠️ O Conflito Central
+A narrativa foca no uso de ferramentas do dia a dia de um dev para combater o mal:
+
+Organização do caos via Quadro Kanban.
+
+Discussões acaloradas sobre a estética do código.
+
+A luta contra o Bugão e a necessidade de um deploy perfeito.
+
+A Grande Verdade: Um bug nunca vem sozinho. No momento da celebração, um novo erro aparece, provando que o trabalho de um Debugador nunca termina.
+
 
 
 ### 🟦 Desenvolvimento
