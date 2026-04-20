@@ -4,7 +4,7 @@
 
 * Dara Bezerra Lima
 * Celiane dos Santos Ferreira Carrareto
-* 
+* Raphael Oliveira Tavares
 * 
 *
 
